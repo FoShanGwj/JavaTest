@@ -1,0 +1,16 @@
+指定名称：  git congif --global user.name "用户名"
+指定邮箱：  git config --global user.email "邮件"
+初始化：    git init
+添加：      git add  文件名
+暂存区删除：git rm 文件名
+提交文件：  git commit -m "message" 文件名
+提交所有：  git commit -m "message" 
+查看日志：  git log
+查看日志：  git reflog
+查看状态：  git status
+穿梭：      git reset --hard 版本号
+查看分支：  git branch  -v  
+创建分支：  git branch  分支名 
+删除分支：  git branch -d 分支名
+切换分支：  git checkout 分支名
+合并分区：  git merge 文件名
