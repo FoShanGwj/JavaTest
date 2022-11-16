@@ -1,3 +1,4 @@
+==========2022年11月16日 22:09:18=====================
 指定名称：  git congif --global user.name "用户名"
 指定邮箱：  git config --global user.email "邮件"
 初始化：    git init
@@ -18,3 +19,4 @@
 命名仓库：  git remote add 名字 url
 修改仓库：  git remote oldname newname
 删除仓库：  git remote rm name
+======================================================
