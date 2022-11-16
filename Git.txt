@@ -14,4 +14,7 @@
 删除分支：  git branch -d 分支名
 切换分支：  git checkout 分支名
 合并分支：  git merge 文件名
-重命名：   git remote add 名字 url
+显示仓库：  git remote -v
+命名仓库：  git remote add 名字 url
+修改仓库：  git remote oldname newname
+删除仓库：  git remote rm name
