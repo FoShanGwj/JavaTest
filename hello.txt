@@ -4,3 +4,4 @@ hello master 111111
 hello hot fix
 hello git
 hello student 
+hello clone test
