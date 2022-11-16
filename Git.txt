@@ -16,7 +16,9 @@
 切换分支：  git checkout 分支名
 合并分支：  git merge 文件名
 显示仓库：  git remote -v
-命名仓库：  git remote add 名字 url
+命名仓库：  git remote add 名字 github项目url
 修改仓库：  git remote oldname newname
 删除仓库：  git remote rm name
+上传远程库：git push 仓库名 分支名
+拉取远程库：git pull 仓库名 分支名
 ======================================================
